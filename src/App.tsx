@@ -211,7 +211,7 @@ function App() {
           ) : (
             <div className="text-center py-8">
               <p className="text-muted-foreground">
-                Enter a GitHub username in the URL (e.g., /octocat)
+                Enter a GitHub username in the URL (e.g., <a href="https://ghb.naida.ai/#u1i">/#u1i</a>)
               </p>
             </div>
           )}
